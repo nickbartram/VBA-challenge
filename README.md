@@ -9,22 +9,19 @@ Included in this folder:
 
     - VBA script files (1x .bas file: "Mod2_challenge_NickB.bas")
 
-    - The entire "Multi_year_stock" file (1x .xlsm file: "00_Multiple_year_stock_data(NickB)")
-
     - This README file
 
 - Open the screenshots to view results
     - Results are viewable in .png files (Q1_screenshot.png, Q2_screenshot.png, ...)
     - .png files are viewable in most browsers or image viewers
 
-- Use the .bas file to test the code on a blank "Multiple_year_stock_data.xlsm" file
+- Use the .bas, .vb, or .vba files to test the code on a blank "Multiple_year_stock_data.xlsm" file
     - Open a fresh "Multiple_year_stock_data.xlsm" file
     - Import "Mod2_challenge_NickB.bas" into a blank Module
     - Run the Macro
     - View results
-
-- View the entire .xlsm file if necessary
-    - the entire completed .xlsm file ("00_Multiple_year_stock_data(NickB).xlsm") is included
-    - this can be opened in Excel to review all these results and VBA script  
+    - NOTE: the folder contains identical files with VBA script but, different file extensions
+    - There was some confusion in class about which file extension to use
+    - I've included three different ones, hoping at least one of them is the correct one
 
 - Thank you!
