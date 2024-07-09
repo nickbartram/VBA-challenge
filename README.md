@@ -24,4 +24,10 @@ Included in this folder:
     - There was some confusion in class about which file extension to use
     - I've included three different ones, hoping at least one of them is the correct one
 
+- Note on Code Sourcing:
+    - I used the Xpert Learning Assistant liberally while creating this code
+    - Some of the code may be very close to identical to answers the Xpert Learning Assistant might give
+    - Otherwise I did not view code from other students, nor take directly from any websites (I don't believe).
+    - It's possible I did view some Google search results, but mostly only for broad concepts. If I've forgotten to cite a major source I apologize.
+
 - Thank you!
